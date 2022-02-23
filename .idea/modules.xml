@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javase_pro.iml" filepath="$PROJECT_DIR$/javase_pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-app1/oop-app1.iml" filepath="$PROJECT_DIR$/oop-app1/oop-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare-app/prepare-app.iml" filepath="$PROJECT_DIR$/prepare-app/prepare-app.iml" />
+    </modules>
+  </component>
+</project>
